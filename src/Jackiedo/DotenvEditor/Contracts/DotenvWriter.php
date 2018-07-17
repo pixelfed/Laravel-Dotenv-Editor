@@ -1,4 +1,6 @@
-<?php namespace Jackiedo\DotenvEditor\Contracts;
+<?php 
+
+namespace Jackiedo\DotenvEditor\Contracts;
 
 interface DotenvWriter
 {

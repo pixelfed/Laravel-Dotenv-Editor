@@ -1,4 +1,6 @@
-<?php  namespace Jackiedo\DotenvEditor\Console\Commands;
+<?php  
+
+namespace Jackiedo\DotenvEditor\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Console\ConfirmableTrait;

@@ -1,4 +1,6 @@
-<?php namespace Jackiedo\DotenvEditor;
+<?php 
+
+namespace Jackiedo\DotenvEditor;
 
 use Illuminate\Contracts\Container\Container;
 use Illuminate\Contracts\Config\Repository as Config;

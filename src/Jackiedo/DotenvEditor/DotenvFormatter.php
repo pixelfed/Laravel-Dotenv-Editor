@@ -1,4 +1,6 @@
-<?php namespace Jackiedo\DotenvEditor;
+<?php 
+
+namespace Jackiedo\DotenvEditor;
 
 use Jackiedo\DotenvEditor\Contracts\DotenvFormatter as DotenvFormatterContract;
 use Jackiedo\DotenvEditor\Exceptions\InvalidValueException;
